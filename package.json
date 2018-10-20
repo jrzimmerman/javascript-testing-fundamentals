@@ -1,0 +1,22 @@
+{
+  "name": "javascript-testing-fundamentals",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrzimmerman/javascript-testing-fundamentals.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jrzimmerman/javascript-testing-fundamentals/issues"
+  },
+  "homepage": "https://github.com/jrzimmerman/javascript-testing-fundamentals#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
