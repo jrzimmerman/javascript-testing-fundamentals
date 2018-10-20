@@ -1,4 +1,3 @@
-// sum is intentionally broken so you can see errors in the test
 const {sum, subtract} = require('../math');
 
 let result = sum(3, 7);
