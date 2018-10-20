@@ -1,4 +1,4 @@
-// sum is intentionally broken to see the results of the test
+// sum is intentionally broken so you can see errors in the test
 const sum = (a, b) => a - b;
 const subtract = (a, b) => a - b;
 
